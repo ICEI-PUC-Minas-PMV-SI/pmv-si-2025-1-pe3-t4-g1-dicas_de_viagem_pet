@@ -6,7 +6,7 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+  O nosso objetivo com esse projeto então, é desenvolver uma plataforma colaborativa, onde os próprios usuários podem postar lugares que conheceram, colocar feedbacks de suas experiências, e dialogar tanto com outras pessoas que planejam ir a esses lugares, quanto com os mantenedores desses ambientes, ressaltando as partes positivas da visita, e deixando sugestões e críticas para a melhora contínua do recebimento dos animais com seus tutores. De forma que quando as pessoas planejam alguma viagem, possam ter em um único lugar, diversas possibilidades de montagem de roteiros, com a certeza que serão acolhidos com seus Pets, e tenham a certeza de escolherem pelos lugares mais adequados, e que atendam as suas necessidades e de seus companheirinhos amados.
 
 ## Integrantes
 
