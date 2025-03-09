@@ -1,4 +1,4 @@
-# Título do Projeto
+# Dica de Viagem com Pets
 
 `CURSO: Sistemas de Informação`
 
@@ -10,15 +10,15 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-*Ana Carolina Fernandes de Assis
+* Ana Carolina Fernandes de Assis
 
-*Danilo Falcão da Silva
+* Danilo Falcão da Silva
 
-*Luini de Freitas Salles
+* Luini de Freitas Salles
 
-*Matheus Fernandes da Silva Otoni
+* Matheus Fernandes da Silva Otoni
 
-*Raphael Henrique Cunha Faria
+* Raphael Henrique Cunha Faria
 
 
 ## Orientador
