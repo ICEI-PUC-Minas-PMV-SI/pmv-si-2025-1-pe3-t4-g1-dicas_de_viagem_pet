@@ -1,5 +1,5 @@
 # 2. ESTADO DA ARTE
-A temática da convivência e do impacto dos animais de estimação na vida humana tem atraído elevada atenção da comunidade científica, especialmente nas áreas psicológicas, emocionais, físicas e sociais. Este trabalho explora os principais desenvolvimentos nesse campo.
+	A temática da convivência e do impacto dos animais de estimação na vida humana tem atraído elevada atenção da comunidade científica, especialmente nas áreas psicológicas, emocionais, físicas e sociais. Este trabalho explora os principais desenvolvimentos nesse campo.
 
 Pesquisas recentes se concentram em como a presença de animais de estimação, especialmente durante viagens, pode beneficiar a saúde mental e emocional de seus donos. Estudos analisam os efeitos positivos das interações com pets em viagens, incluindo a redução do estresse, a promoção do bem-estar e o fortalecimento de laços sociais. Investigações em diversos contextos, como viagens em família, turismo pet-friendly e as implicações econômicas desse segmento estão em andamento. Um exemplo significativo é a pesquisa de Barker e Wolen (2008), que discute a importância da terapia assistida por animais e como essa interação pode ser replicada em contextos de férias.
 
