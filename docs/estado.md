@@ -1,5 +1,7 @@
 # 2. ESTADO DA ARTE
-	A temática da convivência e do impacto dos animais de estimação na vida humana tem atraído elevada atenção da comunidade científica, especialmente nas áreas psicológicas, emocionais, físicas e sociais. Este trabalho explora os principais desenvolvimentos nesse campo.
+
+   
+   A temática da convivência e do impacto dos animais de estimação na vida humana tem atraído elevada atenção da comunidade científica, especialmente nas áreas psicológicas, emocionais, físicas e sociais. Este trabalho explora os principais desenvolvimentos nesse campo.
 
 Pesquisas recentes se concentram em como a presença de animais de estimação, especialmente durante viagens, pode beneficiar a saúde mental e emocional de seus donos. Estudos analisam os efeitos positivos das interações com pets em viagens, incluindo a redução do estresse, a promoção do bem-estar e o fortalecimento de laços sociais. Investigações em diversos contextos, como viagens em família, turismo pet-friendly e as implicações econômicas desse segmento estão em andamento. Um exemplo significativo é a pesquisa de Barker e Wolen (2008), que discute a importância da terapia assistida por animais e como essa interação pode ser replicada em contextos de férias.
 
@@ -13,7 +15,7 @@ Ainda há lacunas na pesquisa que merecem maior atenção, como a diversidade cu
 
 Além disso, no Brasil, diversos sites oferecem dicas valiosas para quem deseja viajar com seus pets. O site Petlove (2023) sugere que os donos mantenham seus animais hidratados e alimentados durante a viagem. A A Gazeta (2023) recomenda não alimentar o animal até quatro horas antes da viagem para evitar enjoo. O Terra (2023) lista dicas de segurança, como preparar o pet para a viagem e fazer pausas regulares. O Petz (2023) destaca a importância de verificar as regras de transporte de animais em ônibus e aviões. O Blog Polipet (2023) e o Chemitec (2023) também oferecem orientações sobre como garantir uma viagem tranquila e segura para os pets.
 
-	Diante desse contexto, encontramos sites que já se dispõem a listar e classificar lugares como restaurantes, hotéis, pousadas e  outros lugares que aceitam a entrada e permanência de animais de estimação. Porém são sites estáticos, que apenas demonstram os lugares, mas não permitem interações, comentários dos clientes, envio de fotos e reviews de clientes, que fornecem um feedback confiável sobre como foi, e pode ser, a experiência de ida à esses lugares. Alguns desses sites estão relacionados abaixo:
+   Diante desse contexto, encontramos sites que já se dispõem a listar e classificar lugares como restaurantes, hotéis, pousadas e  outros lugares que aceitam a entrada e permanência de animais de estimação. Porém são sites estáticos, que apenas demonstram os lugares, mas não permitem interações, comentários dos clientes, envio de fotos e reviews de clientes, que fornecem um feedback confiável sobre como foi, e pode ser, a experiência de ida à esses lugares. Alguns desses sites estão relacionados abaixo:
 
  O site Petcafe, fez uma listagem de dez principais restaurantes perfriendly em Belo Horizonte:
 https://petcafe.com.br/restaurante-pet-friendly/
