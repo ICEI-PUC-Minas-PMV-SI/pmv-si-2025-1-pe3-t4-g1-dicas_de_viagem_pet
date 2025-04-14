@@ -128,39 +128,283 @@ Como observado no diagrama de casos de uso da Figura 1, o usuário poderá pesqu
 
 Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
 
-Gerenciar Professor (CSU01)
-Sumário: A Secretária realiza a gestão (inclusão, remoção, alteração e consulta) dos dados sobre professores.
-Ator Primário: Secretária.
-Ator Secundário: Coordenador.
-Pré-condições: A Secretária deve ser validada pelo Sistema.
+3.4.2 Descrições de Casos de Uso
+
+Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
+
+Pesquisar Locais (CSU01)
+Sumário:
+ O usuário pode realizar pesquisas por locais pet-friendly, incluindo hospedagens, estabelecimentos comerciais e locais públicos.
+Ator Primário:
+ Usuário
+Pré-condições:
+O Usuário deve estar autenticado no sistema.
+
+
 Fluxo Principal:
-A Secretária requisita manutenção de professores.
-O Sistema apresenta as operações que podem ser realizadas: inclusão de um novo professor, alteração de um professor, a exclusão de um professor e a consulta de dados de um professor.
-A Secretária seleciona a operação desejada: Inclusão, Exclusão, Alteração ou Consulta, ou opta por finalizar o caso de uso.
-Se a Secretária desejar continuar com a gestão de professores, o caso de uso retorna ao passo 2; caso contrário o caso de uso termina.
-Fluxo Alternativo (3): Inclusão
-A Secretária requisita a inclusão de um professor.
-O Sistema apresenta uma janela solicitando o CPF do professor a ser cadastrado.
-A Secretária fornece o dado solicitado.
-O Sistema verifica se o professor já está cadastrado. Se sim, o Sistema reporta o fato e volta ao início; caso contrário, apresenta um formulário em branco para que os detalhes do professor (Código, Nome, Endereço, CEP, Estado, Cidade, Bairro, Telefone, Identidade, Sexo, Fax, CPF, Data do Cadastro e Observação) sejam incluídos.
-A Secretária fornece os detalhes do novo professor.
-O Sistema verifica a validade dos dados. Se os dados forem válidos, inclui o novo professor e a grade listando os professores cadastrados é atualizada; caso contrário, o Sistema reporta o fato, solicita novos dados e repete a verificação.
+O Usuário acessa a funcionalidade “Pesquisar Locais”.
 
-Fluxo Alternativo (3): Remoção
-A Secretária seleciona um professor e requisita ao Sistema que o remova.
-Se o professor pode ser removido, o Sistema realiza a remoção; caso contrário, o Sistema reporta o fato.
 
-Fluxo Alternativo (3): Alteração
-A Secretária altera um ou mais dos detalhes do professor e requisita sua atualização.
-O Sistema verifica a validade dos dados e, se eles forem válidos, altera os dados na lista de professores, caso contrário, o erro é reportado.
- 
-Fluxo Alternativo (3): Consulta
-A Secretária opta por pesquisar pelo nome ou código e solicita a consulta sobre a lista de professores.
-O Sistema apresenta uma lista professores.
-A Secretária seleciona o professor.
-O Sistema apresenta os detalhes do professor no formulário de professores.
+O Sistema exibe as categorias disponíveis (hospedagens, estabelecimentos comerciais e locais públicos pet-friendly).
 
-Pós-condições: Um professor foi inserido ou removido, seus dados foram alterados ou apresentados na tela.
+
+O Usuário seleciona uma categoria e, se desejar, aplica filtros de pesquisa (ex.: localização, tipo, avaliação).
+
+
+O Sistema processa a solicitação e apresenta uma lista de locais que correspondem aos critérios.
+
+
+O Usuário pode selecionar um local para ver detalhes adicionais ou refinar a pesquisa.
+
+
+Fluxo Alternativo – Pesquisa Geral:
+Caso o Usuário não selecione uma categoria específica, o Sistema realiza uma busca abrangente em todas as categorias e apresenta os resultados de forma unificada.
+
+
+Fluxo Alternativo – Nenhum Resultado:
+Se nenhum local corresponder aos critérios informados, o Sistema exibe uma mensagem informando a ausência de resultados e sugere ajustar os filtros.
+
+
+Pós-condições:
+Uma lista de locais pet-friendly é exibida, permitindo ao Usuário visualizar detalhes ou realizar nova pesquisa.
+
+
+
+
+Gerenciar Perfil (CSU02)
+Sumário:
+ O Usuário gerencia seus dados pessoais, podendo alterar informações, atualizar foto, modificar senha e definir preferências de uso.
+Ator Primário:
+ Usuário
+Ator Secundário:
+ —
+Pré-condições:
+O Usuário deve estar autenticado no sistema.
+
+
+Fluxo Principal:
+O Usuário acessa a seção “Gerenciar Perfil”.
+
+
+O Sistema apresenta os dados cadastrais e as configurações atuais.
+
+
+O Usuário seleciona a opção de editar e altera as informações desejadas (por exemplo, nome, foto, e-mail, senha).
+
+
+O Sistema valida as alterações e, se todos os dados forem válidos, atualiza o cadastro.
+
+
+O Usuário recebe uma confirmação de que os dados foram atualizados com sucesso.
+
+
+Fluxo Alternativo – Alteração de Senha:
+O Usuário opta por alterar a senha.
+
+
+O Sistema solicita a senha atual e a nova senha.
+
+
+Após validação, a senha é alterada e o Usuário é notificado.
+
+
+Pós-condições:
+O perfil do Usuário é atualizado com as novas informações ou configurações.
+
+
+Avaliar Estabelecimento (CSU03)
+Sumário:
+ O Usuário pode avaliar os estabelecimentos pet-friendly, atribuindo notas e inserindo comentários para ajudar outros usuários a conhecer melhor as experiências.
+Ator Primário:
+ Usuário
+Ator Secundário:
+ —
+Pré-condições:
+O Usuário deve estar autenticado no sistema.
+
+
+O Usuário já teve alguma experiência com o estabelecimento (ou possui informações relevantes).
+
+
+Fluxo Principal:
+O Usuário acessa a página de detalhes de um estabelecimento.
+
+
+O Sistema disponibiliza o formulário ou interface para avaliação.
+
+
+O Usuário insere uma nota (por exemplo, de 1 a 5 estrelas) e um comentário opcional.
+
+
+O Sistema valida os dados e cadastra a avaliação.
+
+
+O estabelecimento tem sua média de avaliações atualizada e o comentário fica visível para outros usuários.
+
+
+Fluxo Alternativo – Dados Incompletos ou Inválidos:
+Se o Usuário não preencher os campos obrigatórios ou inserir dados inválidos, o Sistema exibe mensagens de erro solicitando a correção antes de submeter a avaliação.
+
+
+Pós-condições:
+A avaliação do estabelecimento é registrada e reflete na nota média exibida a todos os usuários.
+
+
+Interagir com os Depoimentos (CSU04)
+Sumário:
+ O Usuário pode interagir com os depoimentos relacionados aos estabelecimentos, lendo, respondendo ou reagindo (curtir, comentar) em cada depoimento.
+Ator Primário:
+ Usuário
+Ator Secundário:
+ Outros usuários (indiretamente, ao visualizar interações)
+Pré-condições:
+O Usuário deve estar autenticado no sistema.
+
+
+Fluxo Principal:
+O Usuário acessa a área de depoimentos de um estabelecimento.
+
+
+O Sistema exibe uma lista de depoimentos já cadastrados.
+
+
+O Usuário seleciona um depoimento para visualizar em detalhe e tem a opção de:
+
+
+Curtir o depoimento.
+
+
+Comentar ou responder a ele.
+
+
+Ao inserir sua interação, o Sistema valida e registra a ação, atualizando a contagem de curtidas ou adicionando o comentário.
+
+
+A interação é exibida em tempo real no detalhe do depoimento.
+
+
+Fluxo Alternativo – Moderação de Conteúdo:
+Se o comentário contiver palavras inadequadas ou ultrapassar limites definidos, o Sistema pode rejeitar a postagem e exibir uma mensagem solicitando a revisão do conteúdo.
+
+
+Pós-condições:
+A interação do Usuário com o depoimento é armazenada e atualizada na lista, contribuindo para a dinâmica do sistema.
+
+
+Gerenciar Estabelecimento (CSU05) – (Para Proprietário)
+Sumário:
+ O Proprietário pode gerenciar os dados e informações do seu próprio estabelecimento, incluindo atualizações, inclusão ou remoção de informações, visando manter os dados sempre atualizados e atraentes para os usuários.
+Ator Primário:
+ Proprietário
+Ator Secundário:
+ Usuário (como visualizador dos dados atualizados)
+Pré-condições:
+O Proprietário deve estar autenticado no sistema.
+
+
+O estabelecimento já deve estar cadastrado previamente.
+
+
+Fluxo Principal:
+O Proprietário acessa a seção “Gerenciar Estabelecimento”.
+
+
+O Sistema apresenta os dados atuais do estabelecimento (nome, endereço, horário de funcionamento, fotos, serviços, etc.).
+
+
+O Proprietário seleciona a opção de editar os dados.
+
+
+O Sistema exibe um formulário pré-preenchido com as informações atuais.
+
+
+O Proprietário altera os dados conforme necessário e confirma a operação.
+
+
+O Sistema valida as alterações e, se estiverem corretas, atualiza os dados cadastrais do estabelecimento.
+
+
+O Proprietário recebe uma confirmação de que as informações foram atualizadas com sucesso.
+
+
+Fluxo Alternativo – Remoção do Estabelecimento:
+Caso o Proprietário opte por remover o estabelecimento do sistema, o Sistema solicita confirmação.
+
+
+Após confirmação, o cadastro do estabelecimento é removido e o Proprietário recebe uma notificação.
+
+
+Pós-condições:
+Os dados do estabelecimento são atualizados (ou removidos) conforme a ação realizada pelo Proprietário.
+
+
+Gerenciar Cadastro de Estabelecimentos (CSU06) – (Para Administrador)
+Sumário:
+ O Administrador gerencia o cadastro dos estabelecimentos no sistema, exercendo operações de inclusão, alteração, remoção e consulta, garantindo a integridade e a qualidade das informações exibidas aos usuários e proprietários.
+Ator Primário:
+ Administrador
+
+Pré-condições:
+O Administrador deve estar autenticado no sistema com permissões administrativas adequadas.
+
+
+Fluxo Principal:
+O Administrador acessa o módulo “Gerenciar Cadastro de Estabelecimentos”.
+
+
+O Sistema apresenta as operações disponíveis: inclusão, alteração, remoção e consulta dos cadastros.
+
+
+O Administrador seleciona a operação desejada.
+
+
+Inclusão:
+
+
+O Sistema solicita os dados do novo estabelecimento (nome, endereço, contatos, serviços oferecidos, etc.).
+
+
+O Administrador insere as informações e o Sistema valida os dados, evitando duplicatas.
+
+
+Se os dados estiverem corretos, o novo estabelecimento é cadastrado.
+
+
+Alteração:
+
+
+O Administrador seleciona um estabelecimento existente e edita os dados conforme necessário.
+
+
+Após validação, o Sistema atualiza os dados cadastrais.
+
+
+Remoção:
+
+
+O Administrador seleciona um estabelecimento e solicita a remoção.
+
+
+O Sistema confirma a ação e, se permitido, remove o cadastro.
+
+
+Consulta:
+
+
+O Administrador pode pesquisar estabelecimentos por filtros (nome, localização, status de verificação, etc.) e visualizar detalhes.
+
+
+Cada operação realizada resulta em uma atualização imediata do cadastro.
+
+
+Fluxo Alternativo – Dados Inválidos ou Duplicidade:
+Se durante a inclusão ou alteração os dados estiverem incompletos ou já existirem no sistema, o Sistema exibe mensagens de erro e solicita as correções necessárias.
+
+
+Pós-condições:
+O cadastro de estabelecimentos é atualizado conforme a operação realizada, garantindo a precisão e a integridade das informações no sistema.
+
+
 
 
 
