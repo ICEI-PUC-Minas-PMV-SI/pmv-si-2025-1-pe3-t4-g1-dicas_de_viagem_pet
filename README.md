@@ -14,6 +14,8 @@
 
 * Danilo Falcão da Silva
 
+* Gabriel Eger
+
 * Luini de Freitas Salles
 
 * Matheus Fernandes da Silva Otoni
