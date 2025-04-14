@@ -170,7 +170,7 @@ O diagrama de classes apresentado a seguir representa a estrutura estática do s
 
 #### Figura 2: Diagrama de Classes do Sistema.
  
-![image](https://github.com/user-attachments/assets/abc7591a-b46f-4ea2-b8f0-c116b60eb24e)
+![image]([https://github.com/user-attachments/assets/abc7591a-b46f-4ea2-b8f0-c116b60eb24e](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/f449ef82218afb9eddc231c0f22ddba45eeae863/docs/Classe%20UML.png))
 
 
 ### 3.4.4 Descrições das Classes 
