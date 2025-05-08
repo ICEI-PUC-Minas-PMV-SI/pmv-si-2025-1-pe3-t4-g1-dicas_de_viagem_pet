@@ -122,7 +122,7 @@ Como observado no diagrama de casos de uso da Figura 1, o usuário poderá pesqu
 
 #### Figura 1: Diagrama de Casos de Uso do Sistema.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/6f4c1fdad271c69a52e2d2992de53e4c68bef6c6/docs/diagrama%20de%20casos%20de%20uso.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/casos%20de%20uso.png)
  
 ### 3.4.2 Descrições de Casos de Uso
 
