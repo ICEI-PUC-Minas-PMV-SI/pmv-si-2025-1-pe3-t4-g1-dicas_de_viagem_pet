@@ -65,9 +65,13 @@ A tela é a porta de entrada dos usuários ao sistema, e tem como objetivo dispo
 ### 2. Princípios Gestálticos
 
 ***Proximidade:*** Os elementos de cada card (foto, descrição, autor, tempo, ícones de interação) estão agrupados logicamente, o que ajuda na compreensão imediata do conteúdo. 
-***Similaridade:*** Os cards têm layout idêntico, facilitando o reconhecimento de padrão e leitura em blocos.  
+
+***Similaridade:*** Os cards têm layout idêntico, facilitando o reconhecimento de padrão e leitura em blocos. 
+
 ***Figura-fundo:*** O destaque visual nas imagens e botões cria uma clara separação entre o conteúdo interativo e o plano de fundo.
+
 ***Continuidade:*** A organização horizontal dos cards cria um fluxo visual que orienta a leitura da esquerda para a direita.
+
 ***Foco:*** O uso de cores contrastantes (como o azul no menu) direciona a atenção para as áreas mais importantes.
 
 
