@@ -5,8 +5,10 @@
 ### Persona 1: Mariana Costa
 ![Personas_Felipe](https://private-user-images.githubusercontent.com/165195963/447369885-e048e879-8029-4ae6-a8b3-e7f4cc88241b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTI2MzQsIm5iZiI6MTc0ODIxMjMzNCwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzY5ODg1LWUwNDhlODc5LTgwMjktNGFlNi1hOGIzLWU3ZjRjYzg4MjQxYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjMyMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZjkxZWFkM2I3Mjg5OTdlYTA0Nzc0ZGMzZThkNDNiODA3NDFiMWIxZjZiNDM2MjhlZWRmYzMzZTc3ZDExZDE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jYsq1ZhjBmroAvtI2vmm5tGJoN3dFIDhJOPkO-Yp__s)
 
+
 ### Persona 2: Bruno Oliveira
 ![Personas_Bruno](https://private-user-images.githubusercontent.com/165195963/447369888-33e90074-7289-4319-8696-b3e025f5b974.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTI2MzQsIm5iZiI6MTc0ODIxMjMzNCwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzY5ODg4LTMzZTkwMDc0LTcyODktNDMxOS04Njk2LWIzZTAyNWY1Yjk3NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjMyMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYzMyMjdmMTk2MTE5YzZhNDZhMWFlYmM3N2NjNGI1ZjQ4NTUzZGNjNDVhYTUyYmMzYzU3ZTdkZTdiMTcxNTNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.57cTGmHK86QbkeDQA8ZT-jC8YNTsKxkPmpuKI6jcrWQ)
+
 
 ### Persona 3: Pedro Mendes
 ![Personas_Pedro](https://private-user-images.githubusercontent.com/165195963/447369887-25c5ca99-7437-4de3-ba4e-c5a750df5a9f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTI2MzQsIm5iZiI6MTc0ODIxMjMzNCwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzY5ODg3LTI1YzVjYTk5LTc0MzctNGRlMy1iYTRlLWM1YTc1MGRmNWE5Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjMyMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MzJmYWM2MTMzZmM2MWZkOTY2MjQwNzdjZjZhNjFhM2YyNDA0MWFmYjllN2U0ZWY0Y2U5NDUwOGJiMDI4MWE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._Ubm9Y297AUv55VcPHg7dwTlsAMkPciyBqfz_77Ar9c)
@@ -15,8 +17,10 @@
 ### Persona 4: Felipe Sardoux
 ![Personas_Felipe](https://private-user-images.githubusercontent.com/165195963/447129113-c6fbfc8d-05dc-43ab-b106-983a22167c6e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTI2NzIsIm5iZiI6MTc0ODIxMjM3MiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MTI5MTEzLWM2ZmJmYzhkLTA1ZGMtNDNhYi1iMTA2LTk4M2EyMjE2N2M2ZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjMyNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MjFmZmQ5NGRlZGE2Y2MyYTZiMzlmYjczMTkzYWEzMTY1YzU5YjgwNTMwMmU5MjRhOGQ4NmZlZmIwNmQ0OTNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6mMyLX5gSEWnVavMppk9RklQOzYtF-CQT4L5_Dx9bZs)
 
+
 ### Persona 5: Maria Fernanda
 ![Personas_Maria](https://private-user-images.githubusercontent.com/165195963/447129111-c21168da-a518-47e4-8069-af52fea2ddd9.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTI2NzIsIm5iZiI6MTc0ODIxMjM3MiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MTI5MTExLWMyMTE2OGRhLWE1MTgtNDdlNC04MDY5LWFmNTJmZWEyZGRkOS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjMyNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00Y2JlNDdhODliNmU5MjNlMWQwZmYxMDk1MjFlNzcxNjFkMWFlOTZhZjEzMTdiZmFkNmJmYzZkNzM4ZGMzZDdhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WuedGXTRAxA2Pl1x6OCAAxJDDH05Pv6wZGN2G9GJccY)
+
 
 ### Persona 6: Sofia Almeida
 ![Personas_Sofia](https://private-user-images.githubusercontent.com/165195963/447129116-dd08fec2-ec02-4e8d-baf5-4553be4acd7b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTI2NzIsIm5iZiI6MTc0ODIxMjM3MiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MTI5MTE2LWRkMDhmZWMyLWVjMDItNGU4ZC1iYWY1LTQ1NTNiZTRhY2Q3Yi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjMyNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NDk1MmI3MGE0ZDc5YjJiYzE5YjZhMjZmMjFmNmQ2NWNlYWEyYWNhODI2MGYwZTZkYWNlZmJiYjc0Y2VjMmM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ATdDJByDQrTV16CfnuAHOdgWL5HU-znchGrm59qgPUQ)
@@ -28,8 +32,10 @@
 ### Persona 1: Mariana Costa
 ![Personas_Felipe](https://private-user-images.githubusercontent.com/165195963/447369889-42e1d225-fecd-4515-a392-1357aa735c1f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTM5MTYsIm5iZiI6MTc0ODIxMzYxNiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzY5ODg5LTQyZTFkMjI1LWZlY2QtNDUxNS1hMzkyLTEzNTdhYTczNWMxZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjUzMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zODRlNDQ2ODE5NjgyOWFlYjMwMzQ2MzZiZDI0ODdmYzkzZDdlMzg1Y2VhN2IxN2E0ODc2ZTk3NWM5OGYxYTc1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.2O_uRwlG6C1IygpgAf_Don7kucsOEQJc2xWqh_hWgSc)
 
+
 ### Persona 2: Bruno Oliveira
 ![Personas_Bruno](https://private-user-images.githubusercontent.com/165195963/447369886-78bf8223-5a83-4f2a-b53f-b06c5aab4694.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTM5MTYsIm5iZiI6MTc0ODIxMzYxNiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzY5ODg2LTc4YmY4MjIzLTVhODMtNGYyYS1iNTNmLWIwNmM1YWFiNDY5NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjUzMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02Nzc3NmVhMGY1MGNhYmJmMzhmYjg3ZTg1MTIwNWRhOWQ2ODhiMTUzM2I0MjI5MzMxZmU5YmJkYTgzZmI0ZjI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pCDa4adLT304sbShBhumP03B-KLYyasGnIhOen2XRdQ)
+
 
 ### Persona 3: Pedro Mendes
 ![Personas_Pedro](https://private-user-images.githubusercontent.com/165195963/447369884-ac4b0446-14bd-4bb3-be75-32e4d2ed6dcd.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTM5MTYsIm5iZiI6MTc0ODIxMzYxNiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzY5ODg0LWFjNGIwNDQ2LTE0YmQtNGJiMy1iZTc1LTMyZTRkMmVkNmRjZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjUzMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYjNjZWUwMjViOTZiZjdmMzBiN2FiYmUzYWEzZjQzZjg5YjlkYTE1YmE1NThjMTVjYTFmZThkNzFmNDMwMjg5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.XWObP0FiPGbrq7hszleupdm5WXgn72LDVe8FerOm4sI)
@@ -38,12 +44,13 @@
 ### Persona 4: Felipe Sardoux
 ![Personas_Felipe](https://private-user-images.githubusercontent.com/165195963/447371480-00b7f719-0cb6-409c-b634-fcfa4984d4c7.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTQwNDksIm5iZiI6MTc0ODIxMzc0OSwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcxNDgwLTAwYjdmNzE5LTBjYjYtNDA5Yy1iNjM0LWZjZmE0OTg0ZDRjNy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjU1NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYTU1N2Q0NDVjZTY4OGFmMzE1MzQwOGM4NjViODY1Yjg3MWNkOTQ1YzEwNzgwZTgyMDg0NjUwZmE3Y2I2MTYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.PzacAfAMMQG3djsTq3792xhR-R0oY7i4KaLAWVGSlCg)
 
+
 ### Persona 5: Maria Fernanda
 ![Personas_Maria](https://private-user-images.githubusercontent.com/165195963/447129109-ee7125fe-b3a8-47e0-b4ea-027ca871292d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTM5MTUsIm5iZiI6MTc0ODIxMzYxNSwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MTI5MTA5LWVlNzEyNWZlLWIzYTgtNDdlMC1iNGVhLTAyN2NhODcxMjkyZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjUzMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzJlOWU1MDdmMjM3MTE4MjcyMmE5ODZlZmIyYWIxOWZjMjg5YjVhNDgzYWM1ZTViNGE3NjVmYWI4MDMwMDBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-8NK4jVJX8PInmvQQ0m4gM7wZnZG1YN_QosN-JdC0bE)
 
+
 ### Persona 6: Sofia Almeida
 ![Personas_Sofia](https://private-user-images.githubusercontent.com/165195963/447129114-8526e4a2-0f92-49d0-8904-160dc8335d1a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTM5MTUsIm5iZiI6MTc0ODIxMzYxNSwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MTI5MTE0LTg1MjZlNGEyLTBmOTItNDlkMC04OTA0LTE2MGRjODMzNWQxYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjUzMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZTM4MzY2YTc3NzA3OWFiNWQwOTVlYWYzYjllZmFiNjcyODFjNjZlOTk5MTg2N2NlZTM0MTJiNjczNTUxZDRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LUm_T06BB-KqGxCtDAA2byap03u7EGTSjdOfS3uSSHA)
-
 
 
 
@@ -74,24 +81,31 @@ A tela é a porta de entrada dos usuários ao sistema, e tem como objetivo dispo
 
 ***Foco:*** O uso de cores contrastantes (como o azul no menu) direciona a atenção para as áreas mais importantes.
 
-
-
 ### 3. Recomendações Ergonômicas
 
 ***Usabilidade:*** A interface é limpa, objetiva e com vocabulário informal e acessível ao público-alvo (donos de pets).
+
 ***Legibilidade:*** Boa hierarquia tipográfica (título, subtítulo, texto) e contraste adequado entre texto e fundo.
+
 ***Tamanho dos elementos clicáveis:*** Os botões têm bom tamanho para toque em dispositivos móveis.
-***Acessibilidade visual:*** Ícones e cores ajudam na identificação rápida das funções, embora seria ideal verificar contraste para pessoas com baixa visão ou daltônicos.
+
+***Acessibilidade visual:*** Ícones e cores ajudam na identificação rápida das funções.
+
 ***Carga cognitiva:*** O layout não sobrecarrega o usuário — apresenta três opções bem divididas, com informações curtas e claras.
-***Responsividade:*** A estrutura modular sugere que o design pode se adaptar bem a diferentes tamanhos de tela.
+
+***Responsividade:*** A estrutura modular pode se adaptar bem a diferentes tamanhos de tela.
 
 
 ### 4. Regras de Ouro (Shneiderman):
 
 ***Consistência:*** Os botões de navegação ("Home", "Hospedagens", etc.) seguem um padrão visual uniforme (mesmo tamanho, cor e ícone), garantindo previsibilidade na interação. 
-***Atalhos:*** Os filtros como "Parque", "Restaurante", "Praça" ajudam o usuário a identificar rapidamente o tipo de local desejado.  
+
+***Atalhos:*** Os filtros como "Parque", "Restaurante", "Praça" ajudam o usuário a identificar rapidamente o tipo de local desejado. 
+
 ***Feedback Informativo:*** As curtidas, comentários e compartilhamentos visíveis oferecem retorno imediato sobre a popularidade do conteúdo.
+
 ***Design para Prevenção de Erro:*** O botão “Ver Detalhes” evita cliques em locais errados, direcionando claramente a ação.
+
 ***Controle e Liberdade ao Usuário:*** A interface é simples e não impõe fluxos complicados — o usuário navega livremente entre categorias.
 
 
@@ -111,10 +125,13 @@ Nessa tela, no exemplo de HOSPEDAGENS, mas será o mesmo princípia das telas de
 
 ***Similaridade e Repetição:***
 Os seis cards são visualmente idênticos em layout, facilitando a navegação e leitura por reconhecimento de padrões.
+
 ***Proximidade:***
 As informações dentro de cada card são agrupadas de maneira lógica e funcional (nome, descrição, interações), o que melhora a escaneabilidade.
+
 ***Alinhamento:***
 Os cards estão organizados em uma grade regular com espaçamento uniforme, promovendo clareza e harmonia visual.
+
 ***Continuidade e fluxo visual:***
 A repetição dos cards orienta naturalmente o olhar do usuário em “Z”, favorecendo a leitura fluida e o entendimento sequencial.
 
@@ -126,7 +143,7 @@ A repetição dos cards orienta naturalmente o olhar do usuário em “Z”, fav
 Fontes simples, tamanho adequado, espaçamento generoso e contraste apropriado facilitam a leitura.
 
 ***Atenção à acessibilidade:***
-O contraste de cores ainda está dentro de um bom padrão, mas pode ser reforçado para usuários com deficiência visual. A inclusão de ícones ajuda na compreensão rápida, inclusive para usuários com menor letramento.
+O contraste de cores é pensado também para usuários com deficiência visual. A inclusão de ícones ajuda na compreensão rápida, inclusive para usuários com menor letramento.
 
 ***Espaçamento e organização:***
 A tela está organizada de forma a não sobrecarregar visualmente, mesmo com vários elementos repetidos.
@@ -154,9 +171,6 @@ A uniformidade dos elementos interativos (botões, marcadores de tipo como “Pa
 
 
 <img width="900" alt="login" src="https://private-user-images.githubusercontent.com/165195963/447372928-37e6e0bb-12d6-4b73-b393-34c67c401ec2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTYwMjIsIm5iZiI6MTc0ODIxNTcyMiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcyOTI4LTM3ZTZlMGJiLTEyZDYtNGI3My1iMzkzLTM0YzY3YzQwMWVjMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzI4NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYmFlOWI5ODk5MTcwMDRhYTJhNzlkMDhmMTJhYzhjZGFkYzhiMjliYzIyZmNlYTMzZWFiYmM4NDc1MTNlNTZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.7Ft6n2kHvxB8-tAXOc3BqPD3qOV0b6ydv5CTbj4y7c4"/>
-
-
-
 
 
 
@@ -213,9 +227,6 @@ As informações estão bem divididas com títulos e ícones que servem de ânco
 O botão de “Voltar” no topo esquerdo respeita a navegação natural e expectativa do usuário, sem a necessidade de recorrer ao navegador.
 
 <img width="900" alt="login" src="https://private-user-images.githubusercontent.com/165195963/447372926-ba2f3de8-0449-4761-95fe-2015cf49b4e6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTYwMjIsIm5iZiI6MTc0ODIxNTcyMiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcyOTI2LWJhMmYzZGU4LTA0NDktNDc2MS05NWZlLTIwMTVjZjQ5YjRlNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzI4NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jOWQzOTRiYzNmZGViOTQzNjE4YWQxZWEyZGZhNGFmYzA2MTJlNTkzZmU5Mzg1M2U5MTUzNDQ4YjNhN2U1MTNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ni98zfd16Fw2M3B08SggZKbSFCAOkLAzuIftJkYzk_Q"/>
-
-
-
 
 
 
