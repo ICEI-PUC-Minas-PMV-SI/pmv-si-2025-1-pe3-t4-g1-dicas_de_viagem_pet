@@ -45,6 +45,289 @@
 ![Personas_Sofia](https://private-user-images.githubusercontent.com/165195963/447129114-8526e4a2-0f92-49d0-8904-160dc8335d1a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTM5MTUsIm5iZiI6MTc0ODIxMzYxNSwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MTI5MTE0LTg1MjZlNGEyLTBmOTItNDlkMC04OTA0LTE2MGRjODMzNWQxYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMjUzMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZTM4MzY2YTc3NzA3OWFiNWQwOTVlYWYzYjllZmFiNjcyODFjNjZlOTk5MTg2N2NlZTM0MTJiNjczNTUxZDRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LUm_T06BB-KqGxCtDAA2byap03u7EGTSjdOfS3uSSHA)
 
 
+
+
+
+
+
 ## 4.3 Protótipos das Interfaces
 Apresente nesta seção os protótipos de alta fidelidade do sistema proposto. A fidelidade do protótipo refere-se ao nível de detalhes e funcionalidades incorporadas a ele. Assim, um protótipo de alta fidelidade é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo já apresenta maior semelhança com o design final em termos de detalhes e funcionalidades. No desenvolvimento dos protótipos, devem ser considerados os princípios gestálticos, as recomendações ergonômicas e as regras de design (como as 8 regras de ouro). É importante descrever no texto do relatório como os princípios gestálticos e as regras de ouro foram seguidas no projeto das interfaces. Nesta etapa deve-se dar uma ênfase na implementação do software de modo que possam ser realizados os testes com usuários na etapa seguinte.
+
+
+
+
+
+## Protótipo tela HOME
+
+### 1. Objetivo da Tela  
+
+A tela é a porta de entrada dos usuários ao sistema, e tem como objetivo dispor as principais funções, com o menu principal ao centro na parte superior, o Banner com a frase de impacto do site, e as susgestões de novidades logo abaixo. 
+
+### 2. Princípios Gestálticos
+
+***Proximidade:*** Os elementos de cada card (foto, descrição, autor, tempo, ícones de interação) estão agrupados logicamente, o que ajuda na compreensão imediata do conteúdo. 
+***Similaridade:*** Os cards têm layout idêntico, facilitando o reconhecimento de padrão e leitura em blocos.  
+***Figura-fundo:*** O destaque visual nas imagens e botões cria uma clara separação entre o conteúdo interativo e o plano de fundo.
+***Continuidade:*** A organização horizontal dos cards cria um fluxo visual que orienta a leitura da esquerda para a direita.
+***Foco:*** O uso de cores contrastantes (como o azul no menu) direciona a atenção para as áreas mais importantes.
+
+
+
+### 3. Recomendações Ergonômicas
+
+***Usabilidade:*** A interface é limpa, objetiva e com vocabulário informal e acessível ao público-alvo (donos de pets).
+***Legibilidade:*** Boa hierarquia tipográfica (título, subtítulo, texto) e contraste adequado entre texto e fundo.
+***Tamanho dos elementos clicáveis:*** Os botões têm bom tamanho para toque em dispositivos móveis.
+***Acessibilidade visual:*** Ícones e cores ajudam na identificação rápida das funções, embora seria ideal verificar contraste para pessoas com baixa visão ou daltônicos.
+***Carga cognitiva:*** O layout não sobrecarrega o usuário — apresenta três opções bem divididas, com informações curtas e claras.
+***Responsividade:*** A estrutura modular sugere que o design pode se adaptar bem a diferentes tamanhos de tela.
+
+
+### 4. Regras de Ouro (Shneiderman):
+
+***Consistência:*** Os botões de navegação ("Home", "Hospedagens", etc.) seguem um padrão visual uniforme (mesmo tamanho, cor e ícone), garantindo previsibilidade na interação. 
+***Atalhos:*** Os filtros como "Parque", "Restaurante", "Praça" ajudam o usuário a identificar rapidamente o tipo de local desejado.  
+***Feedback Informativo:*** As curtidas, comentários e compartilhamentos visíveis oferecem retorno imediato sobre a popularidade do conteúdo.
+***Design para Prevenção de Erro:*** O botão “Ver Detalhes” evita cliques em locais errados, direcionando claramente a ação.
+***Controle e Liberdade ao Usuário:*** A interface é simples e não impõe fluxos complicados — o usuário navega livremente entre categorias.
+
+
+<img width="900" alt="login" src="https://github.com/user-attachments/assets/443eb6aa-7055-422a-b13d-f53c88d78b8d](https://private-user-images.githubusercontent.com/165195963/447371672-88adbabe-5f1f-4360-a50b-de1c6ecc14e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTQzOTAsIm5iZiI6MTc0ODIxNDA5MCwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcxNjcyLTg4YWRiYWJlLTVmMWYtNDM2MC1hNTBiLWRlMWM2ZWNjMTRlNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzAxMzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZGViNWZiN2M2YmU0NDdkN2E1MjUwNmJhMzI2YTkyNzI5ZjQyM2I1NTIwNjlkYmI2NmI3OWQwYTk0ODkwMGEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KEcdoOvvYY6Ryfyx1RljFCfw7dv8fzYk8CihprmuH6k)" />
+
+
+
+
+
+## Protótipo tela por Categorias
+
+### 1. Objetivo da Tela  
+
+Nessa tela, no exemplo de HOSPEDAGENS, mas será o mesmo princípia das telas de locais publicos e estabelecimentos, serão dispostos os Cards de todas as hospedagens cadastradas para que o usuário possa vizualizar, e entrar nos detalhes.
+
+### 2. Princípios Gestálticos
+
+***Similaridade e Repetição:***
+Os seis cards são visualmente idênticos em layout, facilitando a navegação e leitura por reconhecimento de padrões.
+***Proximidade:***
+As informações dentro de cada card são agrupadas de maneira lógica e funcional (nome, descrição, interações), o que melhora a escaneabilidade.
+***Alinhamento:***
+Os cards estão organizados em uma grade regular com espaçamento uniforme, promovendo clareza e harmonia visual.
+***Continuidade e fluxo visual:***
+A repetição dos cards orienta naturalmente o olhar do usuário em “Z”, favorecendo a leitura fluida e o entendimento sequencial.
+
+
+
+### 3. Recomendações Ergonômicas
+
+***Boa legibilidade:***
+Fontes simples, tamanho adequado, espaçamento generoso e contraste apropriado facilitam a leitura.
+
+***Atenção à acessibilidade:***
+O contraste de cores ainda está dentro de um bom padrão, mas pode ser reforçado para usuários com deficiência visual. A inclusão de ícones ajuda na compreensão rápida, inclusive para usuários com menor letramento.
+
+***Espaçamento e organização:***
+A tela está organizada de forma a não sobrecarregar visualmente, mesmo com vários elementos repetidos.
+
+***Tamanho de alvos clicáveis:***
+Os botões “Ver Detalhes” e “Publicar” são bem dimensionados para interações via toque (importante para dispositivos móveis).
+
+***Consumo cognitivo reduzido:***
+A interface guia o usuário intuitivamente, com foco nos elementos principais (título, imagem, ação) sem exigir esforço mental excessivo.
+
+
+### 4. Regras de Ouro (Shneiderman):
+
+***Consistência:***
+A estrutura dos cards repete a mesma hierarquia visual e posicionamento de elementos da tela anterior (foto, ícones, botão "Ver Detalhes"), o que ajuda o usuário a entender rapidamente como interagir.
+
+***Atalhos e Eficiência:***
+O botão “Publicar” está bem posicionado e destacado, facilitando o acesso rápido para usuários que desejam contribuir com novas postagens.
+
+***Feedback visual:***
+O uso de ícones com contadores para curtidas, comentários e compartilhamentos fornece feedback direto sobre o conteúdo.
+
+***Prevenção de erros:***
+A uniformidade dos elementos interativos (botões, marcadores de tipo como “Parque”, “Praça”, “Restaurante”) evita cliques errados ou confusões.
+
+
+<img width="900" alt="login" src="https://private-user-images.githubusercontent.com/165195963/447371675-a7765d8b-4702-48f2-a604-f5bd8af518fb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTUwNDgsIm5iZiI6MTc0ODIxNDc0OCwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcxNjc1LWE3NzY1ZDhiLTQ3MDItNDhmMi1hNjA0LWY1YmQ4YWY1MThmYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzEyMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MzZhZmIyN2E3NTdiMmU0NjVhMzY5NWMyNDVlNGZlMmQ4NmJmMWFkOWE1MmNlYmZjNTU3NTk4MzQ5ZTA4MmE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.rWmbAQKV2HUQwJ6l9e2ISMf89qgnwkWnp4PkaFcFqFM"/>
+
+
+
+
+
+
+
+## Protótipo tela Detalhamento da Publicação
+
+### 1. Objetivo da Tela  
+
+Nessa tela, já dentro da publicação, o usuário já vizualizou os primeiros dados da local, e quer mais detalhes. Então ele entra nessa tela para ver endereço, horaio de funcionamento do local e outras informações úteis, além de poder interagir com a publicação, vendo os comentários, curtidas, etc.
+
+### 2. Princípios Gestálticos
+
+***Proximidade e agrupamento:***
+Os elementos relacionados estão visualmente próximos — por exemplo, o bloco com "Endereço", "Horário de funcionamento" e "Comodidades" — facilitando o entendimento imediato.
+
+***Hierarquia visual (figura/fundo):***
+A imagem grande no topo é o elemento de destaque inicial (figura), com o restante da tela servindo como suporte à informação detalhada (fundo).
+
+***Similaridade e repetição:***
+O estilo dos botões, tags (como "Estacionamento", "Lanchonete") e ícones mantém o padrão visual, reforçando a coesão e a previsibilidade da interface.
+
+***Boa continuidade:***
+A organização vertical da tela conduz o olhar do topo (imagem) até o final (ações), em um fluxo natural de leitura.
+
+
+
+### 3. Recomendações Ergonômicas
+
+***Facilidade de leitura:***
+Tipografia clara, tamanhos adequados e espaçamento entre blocos de texto tornam a leitura confortável, tanto em desktop quanto em dispositivos móveis.
+
+***Ícones como reforço cognitivo:***
+O uso de ícones (localização, relógio, interações sociais) complementa o texto, beneficiando tanto a memorização quanto a acessibilidade para usuários com menor alfabetização.
+
+***Espaços em branco:***
+O uso consciente de espaços vazios entre seções evita poluição visual e dá “respiro” ao layout, favorecendo a ergonomia visual.
+
+***Atenção à ação do usuário:***
+Os elementos clicáveis (como botões e links) têm tamanho adequado e estão bem espaçados, o que é ideal para dispositivos com toque.
+
+
+### 4. Regras de Ouro (Shneiderman):
+
+***Consistência:***
+A identidade visual (cores, tipografia, espaçamento e ícones) se mantém fiel às outras telas, garantindo familiaridade e reduzindo a curva de aprendizado do usuário.
+
+***Feedback:***
+A presença dos ícones de curtidas, comentários e compartilhamentos no rodapé indica que a interação com o conteúdo continua possível mesmo em telas de detalhe.
+
+***Minimização da carga de memória:***
+As informações estão bem divididas com títulos e ícones que servem de âncoras visuais, permitindo que o usuário encontre o que precisa sem memorizar nada.
+
+***Acesso fácil às ações importantes:***
+O botão de “Voltar” no topo esquerdo respeita a navegação natural e expectativa do usuário, sem a necessidade de recorrer ao navegador.
+
+<img width="900" alt="login" src="https://private-user-images.githubusercontent.com/165195963/447371673-0b3b8242-59c7-46bd-9749-d14d9b6a246a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTUwNDgsIm5iZiI6MTc0ODIxNDc0OCwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcxNjczLTBiM2I4MjQyLTU5YzctNDZiZC05NzQ5LWQxNGQ5YjZhMjQ2YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzEyMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OGIzMTQyN2E5ZTExZTI4OGU5YTMyODYyNTE4MjQ1N2I0OGRmZjFhODlmMzc3NmI3NjVjMWUyMjM2ZGEzMjlmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8aKUnqEra4HUCqNolr7UQ6SjTx6BrqAS1-sGJa06UIA"/>
+
+
+
+
+
+
+
+## Protótipo tela de Regras de Viagem
+
+### 1. Objetivo da Tela  
+
+Aqui o objetivo já é a demonstração de maneira fácil e intuitiva, das regras cadastradas para realizar viagem com os Pets.
+
+### 2. Princípios Gestálticos
+
+***Proximidade:***
+As seções dentro do card estão bem agrupadas e organizadas por tipo de conteúdo (documentação, cuidados, equipamentos), facilitando o escaneamento visual.
+
+***Similaridade e repetição:***
+O uso uniforme dos ícones de transporte e do estilo dos cards com drop-down reforça o padrão visual e melhora a previsibilidade.
+
+***Figura/fundo:***
+O fundo cinza-claro com bordas arredondadas destaca a seção ativa de forma sutil, permitindo ao usuário identificar facilmente o conteúdo em foco.
+
+***Continuidade:***
+O layout segue um fluxo de cima para baixo, com leitura natural e clara separação entre seções.
+
+
+
+### 3. Recomendações Ergonômicas
+
+***Layout responsivo e acessível:***
+Os botões de expansão têm tamanho e espaçamento adequados para toques, mesmo em dispositivos móveis.
+
+***Legibilidade:***
+Tipografia clara, hierarquia de fontes bem definida (título > subtítulo > parágrafo) e espaçamento adequado garantem conforto visual.
+
+***Ajuda ao usuário:***
+A descrição introdutória contextualiza o objetivo da página, reduzindo dúvidas e orientando o uso.
+
+***Ícones como suporte cognitivo:***
+Ícones de carro, trem e ônibus facilitam a compreensão imediata do tipo de transporte, mesmo para usuários com baixa alfabetização.
+
+
+### 4. Regras de Ouro (Shneiderman):
+
+***Consistência:***
+Os ícones de transporte e o layout com cards expansíveis seguem o mesmo estilo visual do resto do aplicativo, o que mantém a uniformidade.
+
+***Permitir controle ao usuário:***
+A escolha do meio de transporte está claramente disponível no topo. O usuário pode alternar livremente entre as opções (Carro, Trem, Ônibus).
+
+***Minimização da carga de memória:***
+Todas as informações estão divididas por tópicos e colapsadas, reduzindo a sobrecarga visual e ajudando o usuário a focar no que precisa.
+
+***Fechamento da interação:***
+Cada seção é expansível, e a seta indica visualmente o estado (aberto ou fechado), oferecendo feedback claro.
+
+
+<img width="900" alt="login" src="https://private-user-images.githubusercontent.com/165195963/447371676-a502048e-ffc2-435f-b2fc-b1196e8e9b6a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTUwNDgsIm5iZiI6MTc0ODIxNDc0OCwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcxNjc2LWE1MDIwNDhlLWZmYzItNDM1Zi1iMmZjLWIxMTk2ZThlOWI2YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzEyMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NTUxOWMwMzNjMWJjMTY0YjNlNmIzNWE3MDJmZWU4OThlY2E1MmNlOWUyMGZjY2ZmNTY3NmVkODcwYmQ0NjE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gmOcsMD30l3nNi9H-cpvlP9d0r0TDovVYhEBXqPy62Q"/>
+
+
+
+
+
+
+
+
+## Protótipo tela de Nova publicação
+
+### 1. Objetivo da Tela  
+
+O objetivo dessa tela é que o usuário possa cadastrar um novo local, com todas as informações importantes requeridas.
+
+### 2. Princípios Gestálticos
+
+***Proximidade:***
+Campos relacionados estão agrupados logicamente — como localização, comodidades e horário — o que facilita o fluxo de preenchimento.
+
+***Alinhamento e repetição:***
+Todos os campos seguem a mesma largura, alinhamento e estilo visual, gerando ritmo e previsibilidade na interface.
+
+***Figura/fundo:***
+O fundo branco com campos em cinza claro cria contraste suficiente para destacar os inputs sem agredir visualmente.
+
+
+
+### 3. Recomendações Ergonômicas
+
+***Tamanho e espaçamento adequados para toque:***
+Os campos são grandes o bastante para uso em dispositivos móveis, com espaçamento entre eles.
+
+***Legibilidade:***
+Fontes grandes e claras, com bons espaços entre linhas e seções.
+
+***Carga cognitiva reduzida:***
+Ao dividir as informações em pequenos blocos, o formulário não parece pesado ou intimidador.
+
+***Fluxo natural:***
+A ordem dos campos segue um fluxo lógico — do geral (título) ao específico (comodidades e descrição).
+
+
+### 4. Regras de Ouro (Shneiderman):
+
+***Consistência:***
+O design segue o mesmo padrão visual do app: títulos, campos, bordas arredondadas, hierarquia tipográfica e espaçamento coerente.
+
+***Permitir o controle e liberdade ao usuário:***
+O usuário é quem insere os dados. A estrutura de formulário livre (campos abertos) dá autonomia ao criador da publicação.
+
+***Prevenção de erros:***
+Os campos possuem placeholders com exemplos, o que reduz a chance de inserção errada de dados (ex: “de 10hs às 19hs”).
+
+***Ajuda e documentação:***
+Os exemplos fornecem suporte direto no contexto de uso. Mesmo sem documentação externa, o usuário entende como preencher.
+
+
+
+<img width="900" alt="login" src="[https://private-user-images.githubusercontent.com/165195963/447371676-a502048e-ffc2-435f-b2fc-b1196e8e9b6a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTUwNDgsIm5iZiI6MTc0ODIxNDc0OCwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcxNjc2LWE1MDIwNDhlLWZmYzItNDM1Zi1iMmZjLWIxMTk2ZThlOWI2YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzEyMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NTUxOWMwMzNjMWJjMTY0YjNlNmIzNWE3MDJmZWU4OThlY2E1MmNlOWUyMGZjY2ZmNTY3NmVkODcwYmQ0NjE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gmOcsMD30l3nNi9H-cpvlP9d0r0TDovVYhEBXqPy62Q](https://private-user-images.githubusercontent.com/165195963/447371671-aa25771a-e8f8-4da9-8631-a4fe477b3554.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTUwNDgsIm5iZiI6MTc0ODIxNDc0OCwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcxNjcxLWFhMjU3NzFhLWU4ZjgtNGRhOS04NjMxLWE0ZmU0NzdiMzU1NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzEyMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMzdkZWE4ZTIzYmUwMDI4Yjg2MTZkY2UyOGQ0YzBhMTViOTRjZjY2YWY5NTc1NTVhYjczZWJlN2YxNTU1Y2MxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WJjYUXrFu8MDoFaLJNpNuoFCQ5Gf-VJxhdQoIRpCtWU)"/>
+
 
