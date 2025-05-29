@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>PetViaja - Avaliar um local</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/avaliar.css">
+</head>
+<body>
+  <header class="topo">
+    <div class="logo">
+      <img src="imagens/logo.png" alt="PetViaja" class="logo-icone" />
+      <span class="logo-texto">PetViaja</span>
+    </div>
+    <div class="perfil">
+      <span class="material-icons">account_circle</span>
+    </div>
+  </header>
+
+  <nav class="menu-abas">
+    <a href="#"><span class="material-icons">home</span> Home</a>
+    <a href="#"><span class="material-icons">hotel</span> Hospedagens</a>
+    <a href="#"><span class="material-icons">place</span> Locais públicos</a>
+    <a href="#"><span class="material-icons">store</span> Estabelecimentos</a>
+    <a href="#"><span class="material-icons">description</span> Regras de viagem</a>
+  </nav>
+
+  <main>
+    <a href="#" class="voltar">&lt; Voltar</a>
+    <section class="card-avaliacao">
+      <h2>Avaliar um local:</h2>
+      <form>
+        <div class="grupo">
+          <label class="label-estrela">Sua avaliação:</label>
+          <div class="estrelas">
+            <span class="estrela">★</span>
+            <span class="estrela">★</span>
+            <span class="estrela">★</span>
+            <span class="estrela">★</span>
+            <span class="estrela">★</span>
+          </div>
+        </div>
+        <div class="grupo">
+          <label>Voltaria ao local?</label>
+          <div class="radio-group">
+            <label><input type="radio" name="voltaria" checked> Sim</label><br>
+            <label><input type="radio" name="voltaria"> Não</label>
+          </div>
+        </div>
+        <div class="grupo">
+          <label for="comentario">Comentário:</label>
+          <textarea id="comentario" placeholder="Deixe seu comentário e ajude outros usuários..."></textarea>
+        </div>
+      </form>
+    </section>
+  </main>
+  <script>
+    const estrelas = document.querySelectorAll('.estrela');
+    estrelas.forEach((estrela, index) => {
+      estrela.addEventListener('click', () => {
+        estrelas.forEach(e => e.classList.remove('selecionada'));
+        for (let i = 0; i <= index; i++) {
+          estrelas[i].classList.add('selecionada');
+        }
+      });
+    });
+  </script>
+</body>
+</html>
