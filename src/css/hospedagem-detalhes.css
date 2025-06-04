@@ -1,0 +1,156 @@
+/* Estilos para a página de detalhes de hospedagem */
+
+.voltar-container {
+  margin: 20px 0;
+}
+
+.btn-voltar {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: #666;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.btn-voltar:hover {
+  color: #3a57a3;
+}
+
+.hospedagem-detalhes {
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 0 0 20px;
+  margin-bottom: 30px;
+  overflow: hidden;
+  position: relative;
+}
+
+.categoria-badge {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  background-color: #4caf50;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  z-index: 10;
+}
+
+.imagem-principal {
+  width: 100%;
+  height: 350px;
+  overflow: hidden;
+}
+
+.detalhe-imagem {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.detalhe-titulo {
+  font-size: 28px;
+  font-weight: 600;
+  color: #333;
+  margin: 20px 20px 10px;
+}
+
+.detalhe-descricao {
+  padding: 0 20px;
+  margin-bottom: 20px;
+  color: #555;
+  line-height: 1.6;
+}
+
+.detalhe-info {
+  padding: 0 20px;
+  margin-bottom: 25px;
+}
+
+.info-item {
+  display: flex;
+  margin-bottom: 15px;
+  align-items: flex-start;
+}
+
+.info-icon {
+  color: #4B6EC2;
+  margin-right: 15px;
+  margin-top: 3px;
+}
+
+.info-content h3 {
+  margin: 0 0 5px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #444;
+}
+
+.info-content p {
+  margin: 0;
+  color: #666;
+}
+
+.detalhe-comodidades,
+.detalhe-regras {
+  padding: 0 20px;
+  margin-bottom: 25px;
+}
+
+.detalhe-comodidades h3,
+.detalhe-regras h3 {
+  font-size: 18px;
+  margin-bottom: 12px;
+  color: #333;
+}
+
+.comodidades-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.comodidade-tag {
+  background-color: #f0f0f0;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #555;
+}
+
+.regras-lista {
+  padding-left: 18px;
+  margin: 0;
+  color: #555;
+}
+
+.regras-lista li {
+  margin-bottom: 8px;
+}
+
+.detalhe-interacoes {
+  padding: 0 20px;
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.interacao-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: #666;
+}
+
+.interacao-icon {
+  font-size: 18px;
+}
+
+.interacao-numero {
+  font-size: 16px;
+  font-weight: 500;
+}

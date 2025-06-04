@@ -1,0 +1,81 @@
+/* Estilos específicos para a página de hospedagem */
+
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 0 20px;
+}
+
+.page-title {
+  font-size: 2rem;
+  color: #333;
+  font-weight: 600;
+}
+
+.btn-publicar {
+  background-color: #4B6EC2;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: background-color 0.2s;
+}
+
+.btn-publicar:hover {
+  background-color: #3a57a3;
+}
+
+.btn-publicar .material-icons {
+  font-size: 18px;
+}
+
+/* Ajustes nos cards para corresponder à imagem de referência */
+
+.author-info {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.author-avatar {
+  width: 24px;
+  height: 24px;
+  background-color: #e0e0e0;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.menu-abas a.active {
+  background: #3a57a3;
+}
+
+/* Ajuste nas labels dos cards */
+.card-label {
+  font-size: 12px;
+  padding: 4px 10px;
+}
+
+/* Cores específicas para as labels */
+.card-label:contains("Parque") {
+  background-color: #4caf50;
+}
+
+.card-label:contains("Restaurante") {
+  background-color: #ff9800;
+}
+
+.card-label:contains("Praça") {
+  background-color: #2196f3;
+}
