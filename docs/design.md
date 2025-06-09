@@ -3,7 +3,7 @@
 ## 4.1 Personas
 
 ### Persona 1: Mariana Costa
-![Personas_Felipe](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/2%20-%20mariana.jpg?raw=true)
+![Personas_Felipe](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/mariana.jpg?raw=true)
 
 
 ### Persona 2: Bruno Oliveira
