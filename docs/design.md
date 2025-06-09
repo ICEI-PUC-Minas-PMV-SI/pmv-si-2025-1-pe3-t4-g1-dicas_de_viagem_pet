@@ -109,7 +109,7 @@ A tela é a porta de entrada dos usuários ao sistema, e tem como objetivo dispo
 ***Controle e Liberdade ao Usuário:*** A interface é simples e não impõe fluxos complicados — o usuário navega livremente entre categorias.
 
 
-<img width="900" alt="login" src="https://private-user-images.githubusercontent.com/165195963/447372931-a4f79fe9-907c-4f16-9703-846e8a59b04c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTYwMjIsIm5iZiI6MTc0ODIxNTcyMiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcyOTMxLWE0Zjc5ZmU5LTkwN2MtNGYxNi05NzAzLTg0NmU4YTU5YjA0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzI4NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MmY2YjJkYTAxNDY0MjM5ZTNjZmRmZjlhNzc4ZTgwMDIwMGExZGQ0ZmJiMTIyMmYzNjQyM2RkMDQ0MDg4YjAzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.T88WbZQjXUfFFXHTNBn6oo5kGqIBo-XmJ2IgGDdgpaI" />
+<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/1%20-%20home.png?raw=true" />
 
 
 
@@ -170,7 +170,7 @@ O uso de ícones com contadores para curtidas, comentários e compartilhamentos 
 A uniformidade dos elementos interativos (botões, marcadores de tipo como “Parque”, “Praça”, “Restaurante”) evita cliques errados ou confusões.
 
 
-<img width="900" alt="login" src="https://private-user-images.githubusercontent.com/165195963/447372928-37e6e0bb-12d6-4b73-b393-34c67c401ec2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTYwMjIsIm5iZiI6MTc0ODIxNTcyMiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcyOTI4LTM3ZTZlMGJiLTEyZDYtNGI3My1iMzkzLTM0YzY3YzQwMWVjMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzI4NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYmFlOWI5ODk5MTcwMDRhYTJhNzlkMDhmMTJhYzhjZGFkYzhiMjliYzIyZmNlYTMzZWFiYmM4NDc1MTNlNTZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.7Ft6n2kHvxB8-tAXOc3BqPD3qOV0b6ydv5CTbj4y7c4"/>
+<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/2%20-%20publica%C3%A7%C3%B5es.png?raw=true"/>
 
 
 
@@ -226,7 +226,7 @@ As informações estão bem divididas com títulos e ícones que servem de ânco
 ***Acesso fácil às ações importantes:***
 O botão de “Voltar” no topo esquerdo respeita a navegação natural e expectativa do usuário, sem a necessidade de recorrer ao navegador.
 
-<img width="900" alt="login" src="https://private-user-images.githubusercontent.com/165195963/447372926-ba2f3de8-0449-4761-95fe-2015cf49b4e6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTYwMjIsIm5iZiI6MTc0ODIxNTcyMiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcyOTI2LWJhMmYzZGU4LTA0NDktNDc2MS05NWZlLTIwMTVjZjQ5YjRlNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzI4NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jOWQzOTRiYzNmZGViOTQzNjE4YWQxZWEyZGZhNGFmYzA2MTJlNTkzZmU5Mzg1M2U5MTUzNDQ4YjNhN2U1MTNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ni98zfd16Fw2M3B08SggZKbSFCAOkLAzuIftJkYzk_Q"/>
+<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/3%20-%20detalhes%20publicacao.png?raw=true"/>
 
 
 
@@ -283,7 +283,7 @@ Todas as informações estão divididas por tópicos e colapsadas, reduzindo a s
 Cada seção é expansível, e a seta indica visualmente o estado (aberto ou fechado), oferecendo feedback claro.
 
 
-<img width="900" alt="login" src="https://private-user-images.githubusercontent.com/165195963/447372927-8f167bda-8cd0-455f-80b4-60a411395ef2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTYwMjIsIm5iZiI6MTc0ODIxNTcyMiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcyOTI3LThmMTY3YmRhLThjZDAtNDU1Zi04MGI0LTYwYTQxMTM5NWVmMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzI4NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ODM2NDgwZmNlNzgzY2IwNzBjMTA5YzUwNTYwZDBhNTc1NWJlY2IxY2EzN2QxMDNkNjY0NzgzYmJkZjRkMDg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.wnNGvmKcntfDEXdu-qZjKjQCIkvsm1zfuCd17CjlPdo"/>
+<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/4%20-%20regras.png?raw=true"/>
 
 
 
@@ -342,6 +342,6 @@ Os exemplos fornecem suporte direto no contexto de uso. Mesmo sem documentação
 
 
 
-<img width="900" alt="login" src="https://private-user-images.githubusercontent.com/165195963/447372930-908e531e-99e2-47f2-87fd-bd06002690cd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMTU3NzIsIm5iZiI6MTc0ODIxNTQ3MiwicGF0aCI6Ii8xNjUxOTU5NjMvNDQ3MzcyOTMwLTkwOGU1MzFlLTk5ZTItNDdmMi04N2ZkLWJkMDYwMDI2OTBjZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNVQyMzI0MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MjQxODZjYjBlNjk1MGQ3MTJmMGYwMzA3NmY1OWFlODQ1YjQ3ZTQ2NTY5MWE1ZDFhMGEwNjNiNzVhMzA2YjBlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xan01H2gFLBlT1i5dve0ZV8Egry41ZPW0n-k_cR5NEY"/>
+<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/5%20-%20criar%20publicacao.png?raw=true"/>
 
 
