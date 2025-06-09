@@ -65,6 +65,8 @@ Todas as telas foram pensadas para melhor desempenho e atendimento a todos os ti
 
 ## Protótipo tela HOME
 
+<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/1%20-%20home.png?raw=true" />
+
 ### 1. Objetivo da Tela  
 
 A tela é a porta de entrada dos usuários ao sistema, e tem como objetivo dispor as principais funções, com o menu principal ao centro na parte superior, o Banner com a frase de impacto do site, e as susgestões de novidades logo abaixo. 
@@ -109,13 +111,15 @@ A tela é a porta de entrada dos usuários ao sistema, e tem como objetivo dispo
 ***Controle e Liberdade ao Usuário:*** A interface é simples e não impõe fluxos complicados — o usuário navega livremente entre categorias.
 
 
-<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/1%20-%20home.png?raw=true" />
+
 
 
 
 
 
 ## Protótipo tela por Categorias
+
+<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/2%20-%20publica%C3%A7%C3%B5es.png?raw=true"/>
 
 ### 1. Objetivo da Tela  
 
@@ -170,12 +174,14 @@ O uso de ícones com contadores para curtidas, comentários e compartilhamentos 
 A uniformidade dos elementos interativos (botões, marcadores de tipo como “Parque”, “Praça”, “Restaurante”) evita cliques errados ou confusões.
 
 
-<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/2%20-%20publica%C3%A7%C3%B5es.png?raw=true"/>
+
 
 
 
 
 ## Protótipo tela Detalhamento da Publicação
+
+<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/3%20-%20detalhes%20publicacao.png?raw=true"/>
 
 ### 1. Objetivo da Tela  
 
@@ -226,12 +232,14 @@ As informações estão bem divididas com títulos e ícones que servem de ânco
 ***Acesso fácil às ações importantes:***
 O botão de “Voltar” no topo esquerdo respeita a navegação natural e expectativa do usuário, sem a necessidade de recorrer ao navegador.
 
-<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/3%20-%20detalhes%20publicacao.png?raw=true"/>
+
 
 
 
 
 ## Protótipo tela de Regras de Viagem
+
+<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/4%20-%20regras.png?raw=true"/>
 
 ### 1. Objetivo da Tela  
 
@@ -283,7 +291,7 @@ Todas as informações estão divididas por tópicos e colapsadas, reduzindo a s
 Cada seção é expansível, e a seta indica visualmente o estado (aberto ou fechado), oferecendo feedback claro.
 
 
-<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/4%20-%20regras.png?raw=true"/>
+
 
 
 
@@ -293,6 +301,8 @@ Cada seção é expansível, e a seta indica visualmente o estado (aberto ou fec
 
 
 ## Protótipo tela de Nova publicação
+
+<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/5%20-%20criar%20publicacao.png?raw=true"/>
 
 ### 1. Objetivo da Tela  
 
@@ -342,6 +352,6 @@ Os exemplos fornecem suporte direto no contexto de uso. Mesmo sem documentação
 
 
 
-<img width="900" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/telas/5%20-%20criar%20publicacao.png?raw=true"/>
+
 
 
