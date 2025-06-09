@@ -3,7 +3,7 @@
 ## 4.1 Personas
 
 ### Persona 1: Mariana Costa
-![Personas_Felipe](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/mariana.jpg?raw=true)
+![Personas_Mariana](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/mariana.jpg?raw=true)
 
 
 ### Persona 2: Bruno Oliveira
@@ -30,27 +30,27 @@
 
 
 ### Persona 1: Mariana Costa
-![Personas_Felipe]()
+![Personas Mariana](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/2%20-%20mariana.jpg?raw=true)
 
 
 ### Persona 2: Bruno Oliveira
-![Personas_Bruno]()
+![Personas_Bruno](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/2%20-%20bruno.jpg?raw=true)
 
 
 ### Persona 3: Pedro Mendes
-![Personas_Pedro]()
+![Personas_Pedro](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/2%20-%20pedro.jpg?raw=true)
 
 
 ### Persona 4: Felipe Sardoux
-![Personas_Felipe]()
+![Personas_Felipe](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/2%20-%20felipe.jpg?raw=true)
 
 
 ### Persona 5: Maria Fernanda
-![Personas_Maria]()
+![Personas_Maria](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/2%20-%20maria.jpg?raw=true)
 
 
 ### Persona 6: Sofia Almeida
-![Personas_Sofia]()
+![Personas_Sofia](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/2-%20sofia.jpg?raw=true)
 
 
 
