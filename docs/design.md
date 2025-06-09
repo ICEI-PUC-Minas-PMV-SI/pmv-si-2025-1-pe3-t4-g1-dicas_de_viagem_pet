@@ -53,7 +53,7 @@
 ![Personas_Sofia](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/2-%20sofia.jpg?raw=true)
 
 
-
+&nbsp;
 
 
 
@@ -61,7 +61,7 @@
 Nesta etapa apresentaremos os protótipos das telas, como foram elaboradas, e quais princípios foram seguidos para chegarmos ao resultado em que fique claro, intuitivo e de fácil navegação para usuário, procurando evitar erros e que ele se perca no caminho do que quer encontrar.
 Todas as telas foram pensadas para melhor desempenho e atendimento a todos os tipos de públicos e leitores.
 
-
+&nbsp;
 
 ## Protótipo tela HOME
 
@@ -112,7 +112,7 @@ A tela é a porta de entrada dos usuários ao sistema, e tem como objetivo dispo
 
 
 
-
+&nbsp;
 
 
 
@@ -175,7 +175,7 @@ A uniformidade dos elementos interativos (botões, marcadores de tipo como “Pa
 
 
 
-
+&nbsp;
 
 
 
@@ -233,7 +233,7 @@ As informações estão bem divididas com títulos e ícones que servem de ânco
 O botão de “Voltar” no topo esquerdo respeita a navegação natural e expectativa do usuário, sem a necessidade de recorrer ao navegador.
 
 
-
+&nbsp;
 
 
 
@@ -295,7 +295,7 @@ Cada seção é expansível, e a seta indica visualmente o estado (aberto ou fec
 
 
 
-
+&nbsp;
 
 
 
