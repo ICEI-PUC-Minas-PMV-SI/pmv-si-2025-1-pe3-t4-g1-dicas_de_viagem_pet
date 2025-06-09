@@ -7,23 +7,23 @@
 
 
 ### Persona 2: Bruno Oliveira
-![Personas_Bruno]()
+![Personas_Bruno](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/bruno.jpg?raw=true)
 
 
 ### Persona 3: Pedro Mendes
-![Personas_Pedro]()
+![Personas_Pedro](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/pedro.jpg?raw=true)
 
 
 ### Persona 4: Felipe Sardoux
-![Personas_Felipe]()
+![Personas_Felipe](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/felipe.jpg?raw=true)
 
 
 ### Persona 5: Maria Fernanda
-![Personas_Maria]()
+![Personas_Maria](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/maria.jpg?raw=true)
 
 
 ### Persona 6: Sofia Almeida
-![Personas_Sofia]()
+![Personas_Sofia](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe3-t4-g1-dicas_de_viagem_pet/blob/main/docs/imagens/personas/sofia.jpg?raw=true)
 
 
 ## 4.2 Mapa de Empatia
