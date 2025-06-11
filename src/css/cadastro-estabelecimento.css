@@ -1,0 +1,160 @@
+:root {
+  --color-primary: #2c3e50;
+  --color-secondary: #ffffff;
+  --color-accent: #f5a623;
+  --color-nav: #4b6ec2;
+  --color-nav-hover: #3a57a3;
+  --color-text: #333333;
+  --color-light: #f2f2f2;
+  --color-light-bg: #f8f9fa;
+  --font-base: "Helvetica Neue", Arial, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-base);
+  background-color: var(--color-light-bg);
+  color: var(--color-text);
+  line-height: 1.4;
+}
+
+.container {
+  width: 90%;
+  max-width: 1350px;
+  margin: -2rem auto;
+}
+
+.topo {
+  background: var(--color-secondary);
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #e2e2e2;
+  padding: 0 32px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-icone {
+  height: 44px;
+  width: auto;
+  display: block;
+}
+
+.logo-texto {
+  color: #2477e3;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: -1px;
+}
+
+.perfil .material-icons {
+  font-size: 40px;
+  margin-top: 8px;
+  color: #bdbdbd;
+}
+
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.menu-abas {
+  padding: 8px 0 14px 32px;
+  display: flex;
+  gap: 10px;
+}
+
+.menu-abas a {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background: var(--color-nav);
+  color: var(--color-secondary);
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 8px;
+  padding: 6px 18px;
+  transition: background 0.2s;
+}
+
+.menu-abas a .material-icons {
+  font-size: 18px;
+}
+
+.menu-abas a:hover {
+  background: var(--color-nav-hover);
+}
+
+.voltar-container {
+  margin: 20px 0;
+}
+
+.btn-voltar {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: #666;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.btn-voltar:hover {
+  color: var(--color-nav-hover);
+}
+
+.publication-card {
+  background-color: var(--color-secondary);
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  margin-top: 20px;
+}
+
+.form-label {
+  font-weight: bolder;
+}
+
+.image-upload {
+  border: 2px dashed #dee2e6;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.image-upload:hover {
+  border-color: #0d6efd;
+}
+
+.image-upload i {
+  font-size: 2.5rem;
+  color: #6c757d;
+}
+
+.btn-submit {
+  background-color: #0d6efd;
+  color: var(--color-secondary);
+  font-weight: 500;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
