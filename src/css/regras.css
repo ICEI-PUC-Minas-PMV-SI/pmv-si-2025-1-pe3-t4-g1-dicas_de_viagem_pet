@@ -1,0 +1,330 @@
+/* --- Estilos básicos e fontes --- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-primary: #2c3e50;       
+  --color-secondary: #ffffff;  
+  --color-accent: #f5a623;      
+  --color-text: #333333;        
+  --color-light: #f2f2f2;        
+  --font-base: "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  font-family: var(--font-base);
+  background-color: var(--color-light);
+  color: var(--color-text);
+  line-height: 1.4;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* --- Cabeçalho (Topo) --- */
+.topo {
+  background: #fff;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #e2e2e2;
+  padding: 0 32px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-icone {
+  height: 44px;
+  width: auto;
+  display: block;
+}
+
+.logo-texto {
+  color: #2477e3;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: -1px;
+}
+
+.perfil .material-icons {
+  font-size: 40px;
+  margin-top: 8px;
+  color: #bdbdbd;
+}
+
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+/* Menu abas */
+.menu-abas {
+  padding: 18px 0 10px 32px;
+  display: flex;
+  gap: 10px;
+}
+
+.menu-abas a {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background: #4B6EC2; 
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 8px;
+  padding: 6px 18px;
+  transition: background 0.2s;
+}
+
+.menu-abas a .material-icons {
+  font-size: 18px;
+}
+
+.menu-abas a:hover {
+  background: #3a57a3;
+}
+
+
+/* Estilo para o link ao passar o mouse */
+.menu-abas a:hover {
+    background-color: #4A90E2;
+    color: white;
+}
+
+/* Estilo para o link da página ATIVA */
+.menu-abas a.active {
+    background-color: #4A90E2;
+    color: white;
+    font-weight: 600; /* Negrito APENAS para o link ativo */
+}
+
+
+/* =================================================================== */
+/* ESTILOS ESPECÍFICOS DA PÁGINA DE REGRAS DE VIAGEM              */
+/* =================================================================== */
+
+/* --- Estilos da caixa principal --- */
+#white-box {
+    background-color: #fff;
+    border-radius: 30px;
+    height: auto;
+    margin: 20px 15px;
+    padding: 30px 25px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+#trip-rules-title {
+    font-size: 42px;
+    font-weight: 500;
+}
+
+#white-box p {
+    padding-top: 10px;
+    font-size: 16px;
+    color: #666;
+}
+
+/* --- Seção dos ícones de transporte --- */
+#transport-vehicles {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    padding: 50px 0;
+}
+
+.transport-option {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: #555;
+    font-weight: 500;
+    cursor: pointer;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.transport-option:hover {
+    color: #4A90E2;
+}
+
+.transport-option.active {
+    color: #4A90E2;
+    font-weight: 600;
+}
+
+.transport-option.active .transport-icon {
+    transform: scale(1.1);
+}
+
+.transport-icon {
+    font-size: 56px;
+    margin-bottom: 8px;
+}
+
+/* --- Caixa cinza de regras --- */
+#car-rules-box {
+    background-color:#F5F5F5;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#car-rules-box .box-title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+#car-rules-box .box-title .material-icons {
+    font-size: 37px;
+}
+
+#rules-box-title {
+    font-size:24px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+/* --- Estilos para o Acordeão --- */
+.accordion {
+    width: 100%;
+}
+
+.accordion-item {
+    background-color: #E0E0E0;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.accordion-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 18px;
+    user-select: none;
+}
+
+.accordion-header .material-icons {
+    transition: transform 0.3s ease;
+}
+
+.accordion-content {
+    padding: 0 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease, padding 0.3s ease;
+    background-color: #E0E0E0;
+}
+
+.accordion-content p,
+.accordion-content ul {
+    margin: 0;
+    padding-bottom: 15px;
+    font-size: 15px;
+    color: #333;
+    line-height: 1.5;
+}
+
+.accordion-content ul {
+    list-style-position: inside;
+    padding-left: 5px;
+}
+
+.accordion-item.is-open .accordion-header .material-icons {
+    transform: rotate(180deg);
+}
+
+.accordion-item.is-open .accordion-content {
+    max-height: 500px;
+    padding-top: 5px;
+}
+
+/* =================================================================== */
+/* MEDIA QUERIES PARA RESPONSIVIDADE                   */
+/* =================================================================== */
+
+/* --- Estilos para tablets e celulares (telas <= 768px) --- */
+@media (max-width: 768px) {
+    /* Ajusta o padding do topo */
+    .topo {
+        padding: 10px 15px;
+    }
+    
+    /* Oculta o texto do menu de navegação, deixando só os ícones */
+    .menu-abas a {
+        font-size: 0; /* Esconde o texto */
+        padding: 10px;
+        gap: 0;
+    }
+    .menu-abas a .material-icons {
+        font-size: 26px; /* Garante que o ícone continue visível */
+        margin: 0;
+    }
+    
+    /* Ajusta a caixa branca principal */
+    #white-box {
+        margin: 10px;
+        padding: 20px 15px;
+    }
+    
+    #trip-rules-title {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    #white-box p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    /* Permite que os ícones de transporte quebrem a linha */
+    #transport-vehicles {
+        flex-wrap: wrap;
+        gap: 20px;
+        padding-top: 30px;
+    }
+
+    .transport-option {
+        flex-basis: 30%; /* Define um tamanho para que 3 ícones caibam por linha */
+    }
+
+    /* Ajusta o título da caixa de regras */
+    #rules-box-title {
+        font-size: 20px;
+    }
+}
+
+/* --- Estilos para celulares menores (telas <= 480px) --- */
+@media (max-width: 480px) {
+    #trip-rules-title {
+        font-size: 28px;
+    }
+
+    /* Força 2 ícones por linha para não ficarem muito pequenos */
+    .transport-option {
+        flex-basis: 40%;
+    }
+
+    .accordion-header {
+        font-size: 16px;
+    }
+}
