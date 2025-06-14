@@ -26,6 +26,7 @@
   align-items: center;
   gap: 6px;
   transition: background-color 0.2s;
+  text-decoration: none;
 }
 
 .btn-publicar:hover {
